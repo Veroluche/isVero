@@ -1,0 +1,24 @@
+{
+  "name": "isvero",
+  "version": "1.0.0",
+  "description": "isVero npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js",
+    "lint:fix": "eslint --fix *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veroluche/isVero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veroluche/isVero/issues"
+  },
+  "homepage": "https://github.com/Veroluche/isVero#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
