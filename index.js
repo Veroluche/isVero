@@ -2,4 +2,4 @@ function isVero (input) {
     return input === 'Vero'
   }
   
-  module.exports = isGeo
+  module.exports = isVero
