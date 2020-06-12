@@ -1,3 +1,3 @@
-Function isVero(input) {
+Function isVero(input){
     return input == "Vero";
 }
