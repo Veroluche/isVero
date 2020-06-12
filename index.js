@@ -1,3 +1,5 @@
-Function isVero(input){
-    return input == "Vero";
-}
+function isVero (input) {
+    return input === 'Vero'
+  }
+  
+  module.exports = isGeo
